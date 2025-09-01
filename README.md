@@ -23,6 +23,8 @@ Designed to demonstrate **CRUD operations, responsive UI, and API integration**.
 
 ## 📷 Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b9efe37-eb5d-4262-a8bf-9a9a2c15985e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2391b378-058b-4252-955f-3b91cdf47cb5" />
+
 
 
 ---
@@ -33,9 +35,5 @@ Designed to demonstrate **CRUD operations, responsive UI, and API integration**.
 
 ---
 
-### Run the frontend
-
-```shell
-cd frontend
-npm run dev
+ 
 ```
